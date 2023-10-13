@@ -1,6 +1,4 @@
 # Writing-User-Input-To-a-File
 
-Read user input from console,
-and write the resulting string to a file user_input.txt
-
-output file name: **user_input.o**
+Read data from file data.txt
+split it to two files data_0.txt and data_1.txt
